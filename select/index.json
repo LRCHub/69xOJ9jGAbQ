@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "GOOD NIGHT BABY (Live in Hanshin Koshien Stadium, 2022.11.05)",
+  "base_artist": "aimyon",
+  "createdAt": "2026-03-20T06:11:26.744561Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GOOD NIGHT BABY - Live in Hanshin Koshien Stadium, 2022.11.05",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_GOOD_NIGHT_BABY_-_Live_in_Hanshin_Koshien_Stadium,_2022.11.05_Aimyon.lrc"
+    }
+  ]
+}
